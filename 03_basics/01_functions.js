@@ -52,3 +52,4 @@ function retuenSecoundValue(getarry){
 }
 
 // console.log(retuenSecoundValue(myNewArr));
+
